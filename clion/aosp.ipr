@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/.repo" />
+      <file path="$PROJECT_DIR$/abi" />
+      <file path="$PROJECT_DIR$/art" />
+      <file path="$PROJECT_DIR$/bionic" />
+      <file path="$PROJECT_DIR$/bootable" />
+      <file path="$PROJECT_DIR$/build" />
+      <file path="$PROJECT_DIR$/cts" />
+      <file path="$PROJECT_DIR$/dalvik" />
+      <file path="$PROJECT_DIR$/developers" />
+      <file path="$PROJECT_DIR$/development" />
+      <file path="$PROJECT_DIR$/device" />
+      <file path="$PROJECT_DIR$/docs" />
+      <file path="$PROJECT_DIR$/external/aac" />
+      <file path="$PROJECT_DIR$/external/android-clat" />
+      <file path="$PROJECT_DIR$/external/androidplot" />
+      <file path="$PROJECT_DIR$/external/ant-glob" />
+      <file path="$PROJECT_DIR$/external/antlr" />
+      <file path="$PROJECT_DIR$/external/apache-commons-math" />
+      <file path="$PROJECT_DIR$/external/apache-harmony" />
+      <file path="$PROJECT_DIR$/external/apache-http" />
+      <file path="$PROJECT_DIR$/external/apache-xml" />
+      <file path="$PROJECT_DIR$/external/archive-patcher" />
+      <file path="$PROJECT_DIR$/external/autotest" />
+      <file path="$PROJECT_DIR$/external/avahi" />
+      <file path="$PROJECT_DIR$/external/bison" />
+      <file path="$PROJECT_DIR$/external/blktrace" />
+      <file path="$PROJECT_DIR$/external/boringssl" />
+      <file path="$PROJECT_DIR$/external/bouncycastle" />
+      <file path="$PROJECT_DIR$/external/bsdiff" />
+      <file path="$PROJECT_DIR$/external/bzip2" />
+      <file path="$PROJECT_DIR$/external/c-ares" />
+      <file path="$PROJECT_DIR$/external/caliper" />
+      <file path="$PROJECT_DIR$/external/cblas" />
+      <file path="$PROJECT_DIR$/external/ceres-solver" />
+      <file path="$PROJECT_DIR$/external/chromium-libpac" />
+      <file path="$PROJECT_DIR$/external/chromium-trace" />
+      <file path="$PROJECT_DIR$/external/chromium-webview" />
+      <file path="$PROJECT_DIR$/external/clang" />
+      <file path="$PROJECT_DIR$/external/cmockery" />
+      <file path="$PROJECT_DIR$/external/compiler-rt" />
+      <file path="$PROJECT_DIR$/external/conscrypt" />
+      <file path="$PROJECT_DIR$/external/crcalc" />
+      <file path="$PROJECT_DIR$/external/cros" />
+      <file path="$PROJECT_DIR$/external/curl" />
+      <file path="$PROJECT_DIR$/external/dagger2" />
+      <file path="$PROJECT_DIR$/external/dbus" />
+      <file path="$PROJECT_DIR$/external/dbus-binding-generator" />
+      <file path="$PROJECT_DIR$/external/deqp" />
+      <file path="$PROJECT_DIR$/external/dexmaker" />
+      <file path="$PROJECT_DIR$/external/dhcpcd-6.8.2" />
+      <file path="$PROJECT_DIR$/external/dlmalloc" />
+      <file path="$PROJECT_DIR$/external/dng_sdk" />
+      <file path="$PROJECT_DIR$/external/dnsmasq" />
+      <file path="$PROJECT_DIR$/external/doclava" />
+      <file path="$PROJECT_DIR$/external/donuts" />
+      <file path="$PROJECT_DIR$/external/drm_gralloc" />
+      <file path="$PROJECT_DIR$/external/drm_hwcomposer" />
+      <file path="$PROJECT_DIR$/external/droiddriver" />
+      <file path="$PROJECT_DIR$/external/e2fsprogs" />
+      <file path="$PROJECT_DIR$/external/easymock" />
+      <file path="$PROJECT_DIR$/external/eclipse-basebuilder" />
+      <file path="$PROJECT_DIR$/external/eclipse-windowbuilder" />
+      <file path="$PROJECT_DIR$/external/eigen" />
+      <file path="$PROJECT_DIR$/external/elfutils" />
+      <file path="$PROJECT_DIR$/external/emma" />
+      <file path="$PROJECT_DIR$/external/esd" />
+      <file path="$PROJECT_DIR$/external/expat" />
+      <file path="$PROJECT_DIR$/external/eyes-free" />
+      <file path="$PROJECT_DIR$/external/f2fs-tools" />
+      <file path="$PROJECT_DIR$/external/fdlibm" />
+      <file path="$PROJECT_DIR$/external/fec" />
+      <file path="$PROJECT_DIR$/external/fio" />
+      <file path="$PROJECT_DIR$/external/flac" />
+      <file path="$PROJECT_DIR$/external/fonttools" />
+      <file path="$PROJECT_DIR$/external/freetype" />
+      <file path="$PROJECT_DIR$/external/fsck_msdos" />
+      <file path="$PROJECT_DIR$/external/gemmlowp" />
+      <file path="$PROJECT_DIR$/external/giflib" />
+      <file path="$PROJECT_DIR$/external/glide" />
+      <file path="$PROJECT_DIR$/external/gmock" />
+      <file path="$PROJECT_DIR$/external/google-benchmark" />
+      <file path="$PROJECT_DIR$/external/google-breakpad" />
+      <file path="$PROJECT_DIR$/external/google-fonts" />
+      <file path="$PROJECT_DIR$/external/google-tv-pairing-protocol" />
+      <file path="$PROJECT_DIR$/external/gptfdisk" />
+      <file path="$PROJECT_DIR$/external/gtest" />
+      <file path="$PROJECT_DIR$/external/guava" />
+      <file path="$PROJECT_DIR$/external/guice" />
+      <file path="$PROJECT_DIR$/external/hamcrest" />
+      <file path="$PROJECT_DIR$/external/harfbuzz_ng" />
+      <file path="$PROJECT_DIR$/external/hyphenation-patterns" />
+      <file path="$PROJECT_DIR$/external/icu" />
+      <file path="$PROJECT_DIR$/external/iproute2" />
+      <file path="$PROJECT_DIR$/external/ipsec-tools" />
+      <file path="$PROJECT_DIR$/external/iptables" />
+      <file path="$PROJECT_DIR$/external/iputils" />
+      <file path="$PROJECT_DIR$/external/iw" />
+      <file path="$PROJECT_DIR$/external/jacoco" />
+      <file path="$PROJECT_DIR$/external/jarjar" />
+      <file path="$PROJECT_DIR$/external/javasqlite" />
+      <file path="$PROJECT_DIR$/external/javassist" />
+      <file path="$PROJECT_DIR$/external/jcommander" />
+      <file path="$PROJECT_DIR$/external/jdiff" />
+      <file path="$PROJECT_DIR$/external/jemalloc" />
+      <file path="$PROJECT_DIR$/external/jetty" />
+      <file path="$PROJECT_DIR$/external/jhead" />
+      <file path="$PROJECT_DIR$/external/jmdns" />
+      <file path="$PROJECT_DIR$/external/jsilver" />
+      <file path="$PROJECT_DIR$/external/jsmn" />
+      <file path="$PROJECT_DIR$/external/jsoncpp" />
+      <file path="$PROJECT_DIR$/external/jsr305" />
+      <file path="$PROJECT_DIR$/external/jsr330" />
+      <file path="$PROJECT_DIR$/external/junit" />
+      <file path="$PROJECT_DIR$/external/kernel-headers" />
+      <file path="$PROJECT_DIR$/external/ksoap2" />
+      <file path="$PROJECT_DIR$/external/libavc" />
+      <file path="$PROJECT_DIR$/external/libbrillo" />
+      <file path="$PROJECT_DIR$/external/libcap" />
+      <file path="$PROJECT_DIR$/external/libcap-ng" />
+      <file path="$PROJECT_DIR$/external/libchrome" />
+      <file path="$PROJECT_DIR$/external/libcxx" />
+      <file path="$PROJECT_DIR$/external/libcxxabi" />
+      <file path="$PROJECT_DIR$/external/libdaemon" />
+      <file path="$PROJECT_DIR$/external/libdivsufsort" />
+      <file path="$PROJECT_DIR$/external/libdrm" />
+      <file path="$PROJECT_DIR$/external/libedit" />
+      <file path="$PROJECT_DIR$/external/libevent" />
+      <file path="$PROJECT_DIR$/external/libexif" />
+      <file path="$PROJECT_DIR$/external/libgsm" />
+      <file path="$PROJECT_DIR$/external/libhevc" />
+      <file path="$PROJECT_DIR$/external/libjpeg-turbo" />
+      <file path="$PROJECT_DIR$/external/liblzf" />
+      <file path="$PROJECT_DIR$/external/libmicrohttpd" />
+      <file path="$PROJECT_DIR$/external/libmpeg2" />
+      <file path="$PROJECT_DIR$/external/libmtp" />
+      <file path="$PROJECT_DIR$/external/libnfc-nci" />
+      <file path="$PROJECT_DIR$/external/libnfc-nxp" />
+      <file path="$PROJECT_DIR$/external/libnl" />
+      <file path="$PROJECT_DIR$/external/libogg" />
+      <file path="$PROJECT_DIR$/external/libopus" />
+      <file path="$PROJECT_DIR$/external/libpcap" />
+      <file path="$PROJECT_DIR$/external/libphonenumber" />
+      <file path="$PROJECT_DIR$/external/libpng" />
+      <file path="$PROJECT_DIR$/external/libselinux" />
+      <file path="$PROJECT_DIR$/external/libunwind" />
+      <file path="$PROJECT_DIR$/external/libunwind_llvm" />
+      <file path="$PROJECT_DIR$/external/libusb" />
+      <file path="$PROJECT_DIR$/external/libusb-compat" />
+      <file path="$PROJECT_DIR$/external/libutf" />
+      <file path="$PROJECT_DIR$/external/libvncserver" />
+      <file path="$PROJECT_DIR$/external/libvorbis" />
+      <file path="$PROJECT_DIR$/external/libvpx" />
+      <file path="$PROJECT_DIR$/external/libvterm" />
+      <file path="$PROJECT_DIR$/external/libweave" />
+      <file path="$PROJECT_DIR$/external/libxml2" />
+      <file path="$PROJECT_DIR$/external/libyuv" />
+      <file path="$PROJECT_DIR$/external/littlemock" />
+      <file path="$PROJECT_DIR$/external/lld" />
+      <file path="$PROJECT_DIR$/external/llvm" />
+      <file path="$PROJECT_DIR$/external/ltrace" />
+      <file path="$PROJECT_DIR$/external/lz4" />
+      <file path="$PROJECT_DIR$/external/lzma" />
+      <file path="$PROJECT_DIR$/external/markdown" />
+      <file path="$PROJECT_DIR$/external/mdnsresponder" />
+      <file path="$PROJECT_DIR$/external/mesa3d" />
+      <file path="$PROJECT_DIR$/external/messageformat" />
+      <file path="$PROJECT_DIR$/external/minijail" />
+      <file path="$PROJECT_DIR$/external/mksh" />
+      <file path="$PROJECT_DIR$/external/mmc-utils" />
+      <file path="$PROJECT_DIR$/external/mockftpserver" />
+      <file path="$PROJECT_DIR$/external/mockito" />
+      <file path="$PROJECT_DIR$/external/mockwebserver" />
+      <file path="$PROJECT_DIR$/external/modp_b64" />
+      <file path="$PROJECT_DIR$/external/mp4parser" />
+      <file path="$PROJECT_DIR$/external/mtpd" />
+      <file path="$PROJECT_DIR$/external/nanohttpd" />
+      <file path="$PROJECT_DIR$/external/nanopb-c" />
+      <file path="$PROJECT_DIR$/external/naver-fonts" />
+      <file path="$PROJECT_DIR$/external/netcat" />
+      <file path="$PROJECT_DIR$/external/netperf" />
+      <file path="$PROJECT_DIR$/external/neven" />
+      <file path="$PROJECT_DIR$/external/nfacct" />
+      <file path="$PROJECT_DIR$/external/nist-pkits" />
+      <file path="$PROJECT_DIR$/external/nist-sip" />
+      <file path="$PROJECT_DIR$/external/noto-fonts" />
+      <file path="$PROJECT_DIR$/external/oauth" />
+      <file path="$PROJECT_DIR$/external/objenesis" />
+      <file path="$PROJECT_DIR$/external/okhttp" />
+      <file path="$PROJECT_DIR$/external/opencv" />
+      <file path="$PROJECT_DIR$/external/opencv3" />
+      <file path="$PROJECT_DIR$/external/owasp" />
+      <file path="$PROJECT_DIR$/external/parameter-framework" />
+      <file path="$PROJECT_DIR$/external/pcre" />
+      <file path="$PROJECT_DIR$/external/pdfium" />
+      <file path="$PROJECT_DIR$/external/piex" />
+      <file path="$PROJECT_DIR$/external/ppp" />
+      <file path="$PROJECT_DIR$/external/proguard" />
+      <file path="$PROJECT_DIR$/external/protobuf" />
+      <file path="$PROJECT_DIR$/external/regex-re2" />
+      <file path="$PROJECT_DIR$/external/replicaisland" />
+      <file path="$PROJECT_DIR$/external/rmi4utils" />
+      <file path="$PROJECT_DIR$/external/robolectric" />
+      <file path="$PROJECT_DIR$/external/roboto-fonts" />
+      <file path="$PROJECT_DIR$/external/rootdev" />
+      <file path="$PROJECT_DIR$/external/safe-iop" />
+      <file path="$PROJECT_DIR$/external/scrypt" />
+      <file path="$PROJECT_DIR$/external/selinux" />
+      <file path="$PROJECT_DIR$/external/sfntly" />
+      <file path="$PROJECT_DIR$/external/shflags" />
+      <file path="$PROJECT_DIR$/external/sl4a" />
+      <file path="$PROJECT_DIR$/external/slf4j" />
+      <file path="$PROJECT_DIR$/external/smali" />
+      <file path="$PROJECT_DIR$/external/snakeyaml" />
+      <file path="$PROJECT_DIR$/external/sonic" />
+      <file path="$PROJECT_DIR$/external/sonivox" />
+      <file path="$PROJECT_DIR$/external/speex" />
+      <file path="$PROJECT_DIR$/external/sqlite" />
+      <file path="$PROJECT_DIR$/external/squashfs-tools" />
+      <file path="$PROJECT_DIR$/external/srtp" />
+      <file path="$PROJECT_DIR$/external/strace" />
+      <file path="$PROJECT_DIR$/external/svox" />
+      <file path="$PROJECT_DIR$/external/tagsoup" />
+      <file path="$PROJECT_DIR$/external/tcpdump" />
+      <file path="$PROJECT_DIR$/external/testng" />
+      <file path="$PROJECT_DIR$/external/timezonepicker-support" />
+      <file path="$PROJECT_DIR$/external/tinyalsa" />
+      <file path="$PROJECT_DIR$/external/tinycompress" />
+      <file path="$PROJECT_DIR$/external/tinyxml" />
+      <file path="$PROJECT_DIR$/external/tinyxml2" />
+      <file path="$PROJECT_DIR$/external/tlsdate" />
+      <file path="$PROJECT_DIR$/external/toybox" />
+      <file path="$PROJECT_DIR$/external/tpm2" />
+      <file path="$PROJECT_DIR$/external/tremolo" />
+      <file path="$PROJECT_DIR$/external/unicode" />
+      <file path="$PROJECT_DIR$/external/v8" />
+      <file path="$PROJECT_DIR$/external/valgrind" />
+      <file path="$PROJECT_DIR$/external/vboot_reference" />
+      <file path="$PROJECT_DIR$/external/vixl" />
+      <file path="$PROJECT_DIR$/external/vogar" />
+      <file path="$PROJECT_DIR$/external/vulkan-validation-layers" />
+      <file path="$PROJECT_DIR$/external/webp" />
+      <file path="$PROJECT_DIR$/external/webrtc" />
+      <file path="$PROJECT_DIR$/external/wpa_supplicant_8" />
+      <file path="$PROJECT_DIR$/external/xmlrpcpp" />
+      <file path="$PROJECT_DIR$/external/xmlwriter" />
+      <file path="$PROJECT_DIR$/external/xmp_toolkit" />
+      <file path="$PROJECT_DIR$/external/zlib" />
+      <file path="$PROJECT_DIR$/external/zopfli" />
+      <file path="$PROJECT_DIR$/external/zxing" />
+      <file path="$PROJECT_DIR$/gen" />
+      <file path="$PROJECT_DIR$/hardware" />
+      <file path="$PROJECT_DIR$/kernel" />
+      <file path="$PROJECT_DIR$/ndk" />
+      <file path="$PROJECT_DIR$/out" />
+      <file path="$PROJECT_DIR$/packages" />
+      <file path="$PROJECT_DIR$/pdk" />
+      <file path="$PROJECT_DIR$/platform_testing" />
+      <file path="$PROJECT_DIR$/prebuilts" />
+      <file path="$PROJECT_DIR$/res" />
+      <file path="$PROJECT_DIR$/rkst" />
+      <file path="$PROJECT_DIR$/rockdev" />
+      <file path="$PROJECT_DIR$/sdk" />
+      <file path="$PROJECT_DIR$/toolchain" />
+      <file path="$PROJECT_DIR$/tools" />
+      <file path="$PROJECT_DIR$/u-boot" />
+      <file path="$PROJECT_DIR$/vendor" />
+    </excludeRoots>
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+      <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aosp.iml" filepath="$PROJECT_DIR$/aosp.iml" />
+    </modules>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/developers/build" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/developers/demos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/developers/samples/android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/source.android.com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/skia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/av" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/libbcc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/mclinker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/compile/slang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/data-binding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/ex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/minikin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/ml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/multidex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/native" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/bitmap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/bluetooth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/calendar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/chips" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/colorpicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/datetimepicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/emoji" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/inputconnectioncommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/inputmethodcommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ethernet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/ims" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/voip" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/net/wifi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/photoviewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/setupwizard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/telephony" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/timezonepicker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/opt/vcard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/rs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/support" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/volley" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/webview" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frameworks/wilhelm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/akm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/broadcom/libbt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/broadcom/wlan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/bsp/intel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/google/apf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/audio_media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/bootstub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/bd_prov" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/libmix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/libstagefrighthw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/libva" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/libwsbm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/omx-components" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/utils" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/common/wrs_omxil_core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/img/hwcomposer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/img/psb_headers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/img/psb_video" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/intel/sensors" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/invensense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/libhardware" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/libhardware_legacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/marvell/bt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/audio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/bootctrl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/bt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/camera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/display" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/gps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/keymaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8960" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8994" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8996" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8x26" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8x27" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/msm8x84" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/power" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/qcom/wlan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/ril" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/ti/omap3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/ti/omap4-aah" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hardware/ti/omap4xxx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libcore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/libnativehelper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/bt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/ca-certificates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/connectivity/apmanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/connectivity/dhcp_client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/connectivity/shill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/extras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/firewalld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/gatekeeper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/keymaster" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/media" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/nativepower" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/netd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/nvram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/security" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/sepolicy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/tools/aidl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/tpm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/update_engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/vold" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/weaved" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/system/webservd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/toolchain/binutils" vcs="Git" />
+  </component>
+</project>
